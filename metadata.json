@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Editor",
+  "description": "Upload an image and provide a text prompt to guide an AI in generating a new, 'edited' version of the image using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
